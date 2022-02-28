@@ -33,4 +33,9 @@ python main.py --mode test \
     
 sacrebleu ref.detok.txt -i iwslt14-de-en.out.txt -m bleu -b -w 4    
 ```    
-    
+
+## BLEU Score
+```
+22.3976
+
+```
